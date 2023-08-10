@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.exe
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.deps.json
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.runtimeconfig.json
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\bin\Debug\net6.0\Exercicio7.pdb
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.AssemblyInfo.cs
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\refint\Exercicio7.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.pdb
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\Exercicio7.genruntimeconfig.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio7\Exercicio7\obj\Debug\net6.0\ref\Exercicio7.dll
