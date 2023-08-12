@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.exe
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.deps.json
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.runtimeconfig.json
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\bin\Debug\net6.0\Exercicio9.pdb
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfo.cs
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\refint\Exercicio9.dll
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.pdb
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\Exercicio9.genruntimeconfig.cache
+C:\Users\user\source\repos\CursoCSharp\Exercicio9\Exercicio9\obj\Debug\net6.0\ref\Exercicio9.dll
